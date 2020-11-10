@@ -1,5 +1,17 @@
 class Main {
   public static void main(String[] args) {
-    System.out.println("Hello world!");
+
   }
+
+      
+  public static int sum(int x, int y){
+    return  x + y;
+    }
+
+          
+  public static boolean isBigger(int x, int y){
+    return  x > y;
+    }
+
+
 }
